@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# NEU1010 - Methods in Neuroscience
+## R training 
 
-You can use the [editor on GitHub](https://github.com/rgs212/rgs212.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction to R
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Welcome
+2. Introduction to R
+3. Introduction to RStudio
 
-### Markdown
+### Data
+1. Reading in data
+2. Data types
+3. looking at data
+4. Manipulating data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Basic Analysis
+1. Chi-squared
+2. T-test
+3. Correlations and linear regressions
+4. ANOVA
+5. Logistic regression
 
-```markdown
-Syntax highlighted code block
+### Basic Plots
+1. Barplot
+2. Histogram
+3. Scatter plot
+4. Line plot
+5. Box and whisker plot
+6. Violin plot
 
-# Header 1
-## Header 2
-### Header 3
+### Functions
 
-- Bulleted
-- List
+### Helpful links
 
-1. Numbered
-2. List
+## Statistics
 
-**Bold** and _Italic_ and `Code` text
+### Types of data
+1. Continual
+2. Discrete
+3. Nomical
+4. Ordinal
 
-[Link](url) and ![Image](src)
-```
+### Descriptive statistics
+1. Mean
+2. Median
+3. Mode
+4. Standard deviation
+5. Variance
+6. Range
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Measures of Significance
+1. P-value
+2. F-value
+3. Effect size
+4. Standard deviation
+5. Standard error
+6. Confidence intervals
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rgs212/rgs212.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Things to think about
+1. Parametric vs. non-parametric
+2. What test do I use?
+3. Decision errors
+4. Null hypothesis
