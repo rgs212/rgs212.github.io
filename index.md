@@ -34,14 +34,14 @@
 
 ### Introduction to R
 
-1. <a href = "https://rgs212.github.io/welcome">Welcome</a>
+1. <a href = "https://rgs212.github.io/welcome.md">Welcome</a>
 2. <a href = "https://rgs212.github.io/introR">Introduction to R</a>
 3. <a href = "https://rgs212.github.io/introRS">Introduction to RStudio</a>
 
 ### Data
 1. <a href = "https://rgs212.github.io/readdata">Reading in data</a>
 2. <a href = "https://rgs212.github.io/datatype">Data types</a>
-3. <a href = "https://rgs212.github.io/datainvest">looking at data</a>
+3. <a href = "https://rgs212.github.io/datainvest">Looking at data</a>
 4. <a href = "https://rgs212.github.io/datamanip">Manipulating data</a>
 
 ### Basic Analysis
