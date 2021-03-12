@@ -1,5 +1,4 @@
 # NEU1010 - Methods in Neuroscience
-## R training 
 
 ## Statistics
 
@@ -30,6 +29,8 @@
 2. What test do I use?
 3. Decision errors
 4. Null hypothesis
+
+## R training 
 
 ### Introduction to R
 
