@@ -1,37 +1,6 @@
 # NEU1010 - Methods in Neuroscience
 ## R training 
 
-### Introduction to R
-
-1. Welcome
-2. Introduction to R
-3. Introduction to RStudio
-
-### Data
-1. Reading in data
-2. Data types
-3. looking at data
-4. Manipulating data
-
-### Basic Analysis
-1. Chi-squared
-2. T-test
-3. Correlations and linear regressions
-4. ANOVA
-5. Logistic regression
-
-### Basic Plots
-1. Barplot
-2. Histogram
-3. Scatter plot
-4. Line plot
-5. Box and whisker plot
-6. Violin plot
-
-### Functions
-
-### Helpful links
-
 ## Statistics
 
 ### Types of data
@@ -61,3 +30,36 @@
 2. What test do I use?
 3. Decision errors
 4. Null hypothesis
+
+### Introduction to R
+
+1. <a href = "https://rgs212.github.io/welcome">Welcome</a>
+2. <a href = "https://rgs212.github.io/introR">Introduction to R</a>
+3. <a href = "https://rgs212.github.io/introRS">Introduction to RStudio</a>
+
+### Data
+1. <a href = "https://rgs212.github.io/readdata">Reading in data</a>
+2. <a href = "https://rgs212.github.io/datatype">Data types</a>
+3. <a href = "https://rgs212.github.io/datainvest">looking at data</a>
+4. <a href = "https://rgs212.github.io/datamanip">Manipulating data</a>
+
+### Basic Analysis
+1. <a href = "https://rgs212.github.io/chi2">Chi-squared</a>
+2. <a href = "https://rgs212.github.io/ttest">T-test</a>
+3. <a href = "https://rgs212.github.io/corrandlr">Correlations and linear regressions</a>
+4. <a href = "https://rgs212.github.io/anova">ANOVA</a>
+5. <a href = "https://rgs212.github.io/lr">Logistic regression</a>
+
+### Basic Plots
+1. <a href = "https://rgs212.github.io/barplot">Barplot</a>
+2. <a href = "https://rgs212.github.io/histogram">Histogram</a>
+3. <a href = "https://rgs212.github.io/scatter">Scatter plot</a>
+4. <a href = "https://rgs212.github.io/line">Line plot</a>
+5. <a href = "https://rgs212.github.io/boxwhisk">Box and whisker plot</a>
+6. <a href = "https://rgs212.github.io/violin">Violin plot</a>
+
+### Functions
+
+### Helpful links
+
+
