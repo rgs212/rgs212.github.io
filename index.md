@@ -32,7 +32,7 @@
 
 ### Introduction to R
 
-1. <a href = "https://rgs212.github.io/welcome.md" target="page">Welcome</a>
+1. <a href = "https://rgs212.github.io/welcome.md" target="_self">Welcome</a>
 2. <a href = "https://rgs212.github.io/introR">Introduction to R</a>
 3. <a href = "https://rgs212.github.io/introRS">Introduction to RStudio</a>
 
