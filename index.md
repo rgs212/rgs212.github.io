@@ -1,5 +1,3 @@
-# NEU1010 - Methods in Neuroscience
-
 ## Statistics
 
 ### Types of data
