@@ -1,1 +1,6 @@
+  
+theme: jekyll-theme-slate
+title: NEU1010 - Methods in Neuroscience
+description: Code and statistics training for NEU1010 - Methods in Neuroscience module.
+
 # Welcome
