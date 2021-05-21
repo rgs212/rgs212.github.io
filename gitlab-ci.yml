@@ -1,3 +1,11 @@
-theme: jekyll-theme-slate
-title: NEU1010 - Methods in Neuroscience
-description: Code and statistics training for NEU1010 - Methods in Neuroscience module.
+image: ruby:2.1
+
+pages:
+  script:
+  - gem install jekyll
+  - jekyll build -d public/
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
